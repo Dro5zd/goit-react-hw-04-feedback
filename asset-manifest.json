@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.2996bdff.js",
+    "static/media/bg-vintage-autumn.jpg": "/goit-react-hw-04-feedback/static/media/bg-vintage-autumn.477c926dda051079680f.jpg",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.2996bdff.js.map": "/goit-react-hw-04-feedback/static/js/main.2996bdff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2996bdff.js"
+  ]
+}
